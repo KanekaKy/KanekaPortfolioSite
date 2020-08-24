@@ -8,7 +8,7 @@ class Landing extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img
-                            src="https://media-public.canva.com/MADnJnfLdWo/2/screen.svg"
+                            src="../images/avatar.png"
                             alt="avatar"
                             className="avatar-img"
                         />
@@ -25,6 +25,7 @@ class Landing extends Component {
                                 <a href="https://github.com/KanekaKy" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
+
                             </div>
                         </div>
                     </Cell>
