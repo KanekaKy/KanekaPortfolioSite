@@ -3,13 +3,14 @@
 background-image: url("images/header.gif");
 height: 200px;
 }
-.drawer-image{
-  background:white;
+.drawer-color{
+  padding-top: 50px;
 }
+
 .landing-grid {
   background: #fffc00;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   top:0;
   left:0;
   width:100%;
